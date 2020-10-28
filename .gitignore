@@ -1,0 +1,18 @@
+# Data
+pokemon-data
+test-data
+
+# Model
+generator.h5
+
+# Pycharm project.
+.idea
+
+# Python files.
+code/__pycache__
+
+# Output.
+output
+
+# Batch file.
+train.sh
